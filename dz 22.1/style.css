@@ -1,0 +1,25 @@
+h3 {
+	font-size: 25px;
+	color: royalblue;
+	background: darkgray;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+	width: 150px;
+	text-align: left;
+}
+
+p {
+	font-size: 17px;
+	color: dodgerblue;
+
+}
+
+body {
+	background-color: lightslategray;
+}
+a {
+	color: dodgerblue;
+}
+abzac {
+	background-color: blue;
